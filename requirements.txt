@@ -1,2 +1,6 @@
 flask==2.2.2
 waitress===2.1.2
+
+python-dotenv~=0.21.0
+passlib~=1.7.4
+SQLAlchemy~=1.4.42
